@@ -1,0 +1,1 @@
+python generate_coreset.py --downstream='aircraft' --openset='imagenet' --percent=0.01 --dataset_loc='../dataset' --clip_batch=512 --with_freq=True

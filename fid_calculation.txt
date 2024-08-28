@@ -1,0 +1,1 @@
+python -m pytorch_fid --list True --device cuda:2 --batch-size 256 --with_freq True --openset imagenet1k --path ../dataset/bloomssl_cache/Paths/cars_path_list.txt ./data/Filter/cars/downopen_max_imagenet_subset_codelength_512_hash_k2048_cars_kmeans.txt

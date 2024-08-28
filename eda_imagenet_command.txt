@@ -1,0 +1,1 @@
+python eda.py --downstream=pets --path=data/Filter/pets/openset_imagenet_subset_codelength_512_hash_k145_pets.txt --path_label=data/imagenet_class_index.json

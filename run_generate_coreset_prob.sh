@@ -1,0 +1,3 @@
+python generate_coreset.py --downstream='aircraft' --openset='imagenet' --percent=0.01 --dataset_loc='../dataset' --clip_batch=2048 --with_freq=True
+python generate_coreset.py --downstream='pets' --openset='imagenet' --percent=0.01 --dataset_loc='../dataset' --clip_batch=2048 --with_freq=True
+python generate_coreset.py --downstream='flowers' --openset='imagenet' --percent=0.01 --dataset_loc='../dataset' --clip_batch=2048 --with_freq=True

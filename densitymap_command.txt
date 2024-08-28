@@ -1,0 +1,1 @@
+python densitymap.py --name=aircraft --downstream=data/Filter/aircraft/downstream_aircraft_codelength_512_hash_k483_imagenet.txt --openset=data/Filter/aircraft/openset_imagenet_subset_codelength_512_hash_k483_aircraft.txt

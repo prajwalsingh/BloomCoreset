@@ -1,0 +1,11 @@
+python densitymap_clip.py --name=aircraft --openset=data/Filter/aircraft/openset_imagenet_subset_codelength_512_hash_k483_aircraft.txt --downstream=data/Filter/aircraft/downstream_aircraft_codelength_512_hash_k483_imagenet.txt
+python densitymap_clip.py --name=cars --openset=data/Filter/cars/openset_imagenet_subset_codelength_512_hash_k100_cars.txt --downstream=data/Filter/cars/downstream_cars_codelength_512_hash_k100_imagenet.txt
+python densitymap_clip.py --name=celeba --openset=data/Filter/celeba/openset_imagenet_subset_codelength_512_hash_k186_celeba.txt --downstream=data/Filter/celeba/downstream_celeba_codelength_512_hash_k186_imagenet.txt
+python densitymap_clip.py --name=cub --openset=data/Filter/cub/openset_imagenet_subset_codelength_512_hash_k182_cub.txt --downstream=data/Filter/cub/downstream_cub_codelength_512_hash_k182_imagenet.txt
+python densitymap_clip.py --name=dogs --openset=data/Filter/dogs/openset_imagenet_subset_codelength_512_hash_k2_dogs.txt --downstream=data/Filter/dogs/downstream_dogs_codelength_512_hash_k2_imagenet.txt
+python densitymap_clip.py --name=dtd --openset=data/Filter/dtd/openset_imagenet_subset_codelength_512_hash_k35_dtd.txt --downstream=data/Filter/dtd/downstream_dtd_codelength_512_hash_k35_imagenet.txt
+python densitymap_clip.py --name=flowers --openset=data/Filter/flowers/openset_imagenet_subset_codelength_512_hash_k657_flowers.txt --downstream=data/Filter/flowers/downstream_flowers_codelength_512_hash_k657_imagenet.txt
+python densitymap_clip.py --name=food11 --openset=data/Filter/food11/openset_imagenet_subset_codelength_512_hash_k150_food11.txt --downstream=data/Filter/food11/downstream_food11_codelength_512_hash_k150_imagenet.txt
+python densitymap_clip.py --name=mit67 --openset=data/Filter/mit67/openset_imagenet_subset_codelength_512_hash_k39_mit67.txt --downstream=data/Filter/mit67/downstream_mit67_codelength_512_hash_k39_imagenet.txt
+python densitymap_clip.py --name=pets --openset=data/Filter/pets/openset_imagenet_subset_codelength_512_hash_k145_pets.txt --downstream=data/Filter/pets/downstream_pets_codelength_512_hash_k145_imagenet.txt
+python densitymap_clip.py --name=stanford40 --openset=data/Filter/stanford40/openset_imagenet_subset_codelength_512_hash_k18_stanford40.txt --downstream=data/Filter/stanford40/downstream_stanford40_codelength_512_hash_k18_imagenet.txt
