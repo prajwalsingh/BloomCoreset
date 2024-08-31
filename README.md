@@ -1,5 +1,5 @@
 # BloomCoreset
-Official implementation of the work BloomSSL: Fast Fine-Grained Self-Supervised Learning using Bloom Filters
+Official implementation of the work BloomCoreset: Fast Coreset Sampling using Bloom Filters for Fine-Grained Self-Supervised Learning
 
 ## Fine-Grained SSL Framework
 
