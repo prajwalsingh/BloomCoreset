@@ -6,7 +6,7 @@ Official implementation of the work BloomCoreset: Fast Coreset Sampling using Bl
 <img src="results/blooframework.png" width="100%"/> 
 <img src="results/bloomfilter.png" width="100%"/> 
 
-## Sampled Coresets from ImageNet1k Open-Set using BloomSSL
+## Sampled Coresets from ImageNet1k Open-Set using BloomCoreset
 
 | Classes  | Top-20 | Frequency Plot |
 |---|---|---|
