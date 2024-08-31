@@ -3,7 +3,7 @@ Official implementation of the work BloomCoreset: Fast Coreset Sampling using Bl
 
 ## Fine-Grained SSL Framework
 
-<img src="results/bloomsslframework.png" width="100%"/> 
+<img src="results/bloomframework.png" width="100%"/> 
 <img src="results/bloomfilter.png" width="100%"/> 
 
 ## Sampled Coresets from ImageNet1k Open-Set using BloomSSL
