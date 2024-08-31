@@ -1,7 +1,7 @@
-# BloomSSL
+# BloomCoreset
 Official implementation of the work BloomSSL: Fast Fine-Grained Self-Supervised Learning using Bloom Filters
 
-## BloomSSL Framework
+## Fine-Grained SSL Framework
 
 <img src="results/bloomsslframework.png" width="100%"/> 
 <img src="results/bloomfilter.png" width="100%"/> 
